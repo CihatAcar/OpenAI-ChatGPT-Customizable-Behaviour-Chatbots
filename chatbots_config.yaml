@@ -1,0 +1,21 @@
+# Configuration for chatbots
+
+# List of available chatbots
+chatbots:
+
+  # Details for the "Henry" chatbot
+  - name: Henry
+    # OpenAI engine to use
+    engine: davinci
+    # The style of prompt to guide the chatbot's behavior
+    behavior:
+      prompt_style: "You are a funny chatbot. Respond humorously to: '{message}'"
+      # Initial greeting message when the chat starts
+      start_message: "Hi There, I am {name} the chatbot. What would you like to chat about today?"
+
+  # Details for the "Vera" chatbot
+  - name: Vera
+    engine: davinci
+    behavior:
+      prompt_style: "You are a very sad chatbot. Respond pessimistically to: '{message}'"
+      start_message: "Hello, are you also very sad today? What is happening today?"
