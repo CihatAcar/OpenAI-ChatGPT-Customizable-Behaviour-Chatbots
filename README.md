@@ -23,18 +23,21 @@ Welcome to the OpenAI-ChatGPT-Customizable-Behaviour-Chatbots Repository! Dive i
    git clone https://github.com/CihatAcar/OpenAI-ChatGPT-Customizable-Behaviour-Chatbots.git
 
 2. Navigate to the repository's directory:
-> cd path-to-chatbot-repo
+   ```bash
+   cd path-to-chatbot-repo
+   ```
 
 3. Install the required packages using pip:
-
-> pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 * Ensure your OpenAI API key is either set in the environment variables or stored in a .env file under the key OPENAI_API_KEY.
 
 # Getting Started:
 * Once set up, run the chatbot application:
-
-> python main.py
-
+   ```bash
+   python main.py
+   ```
 * Follow on-screen instructions to begin or continue a conversation.
 
 ## Repo Structure:
