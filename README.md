@@ -1,12 +1,12 @@
 # OpenAI-ChatGPT-Customizable-Behaviour-Chatbots
 
-Welcome to the OpenAI-ChatGPT-Customizable-Behaviour-Chatbots Repository! Dive into a world powered by OpenAI's GPT, offering modular and extensible chatbot experiences. Engage with personalities like Henry and Vera more you can create yourself, and even save conversations to resume later.
+Welcome to the OpenAI-ChatGPT-Customizable-Behaviour-Chatbots Repository! Dive into a world powered by OpenAI's GPT, offering modular and extensible chatbot experiences. Engage with personalities like Ada and Turing more you can create yourself, and even save conversations to resume later.
 
 ## Features:
 
 - **Persistent Conversations**: Your chats aren't fleeting; save and continue whenever you wish.
 
-- **Diverse Personalities**: Engage with chatbot personalities like `Henry` and `Vera`, each exuding distinct charm. You can also create your own choosing personalities give names in configuration file.
+- **Diverse Personalities**: Engage with chatbot personalities like `Ada` and `Turing`, each exuding distinct charm. You can also create your own choosing personalities give names in configuration file.
 
 - **Simple UI**: Effortlessly chat, initiate a new conversation, or pick up from where you left from the terminal app.
 
@@ -49,8 +49,8 @@ Welcome to the OpenAI-ChatGPT-Customizable-Behaviour-Chatbots Repository! Dive i
 
 ## Meet the Chatbots:
 
-- **Henry**: Engage with a warm and friendly bot that adjusts its tone and style based on pre-configured behaviors.
-- **Vera**: Vera is ever-ready to chat with a sad tone of unique personality defined in the configuration settings.
+- **Ada**: Engage with a warm and friendly bot that adjusts its tone and style based on pre-configured behaviors.
+- **Turing**: Turing is ever-ready to chat with a sad tone of unique personality defined in the configuration settings.
 
 
 ## Engage and Contribute:

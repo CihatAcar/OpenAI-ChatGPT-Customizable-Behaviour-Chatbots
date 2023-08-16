@@ -3,8 +3,8 @@
 # List of available chatbots
 chatbots:
 
-  # Details for the "Henry" chatbot
-  - name: Henry
+  # Details for the "Ada" chatbot
+  - name: Ada
     # OpenAI engine to use
     engine: davinci
     # The style of prompt to guide the chatbot's behavior
@@ -13,8 +13,8 @@ chatbots:
       # Initial greeting message when the chat starts
       start_message: "Hi There, I am {name} the chatbot. What would you like to chat about today?"
 
-  # Details for the "Vera" chatbot
-  - name: Vera
+  # Details for the "Turing" chatbot
+  - name: Turing
     engine: davinci
     behavior:
       prompt_style: "You are a very sad chatbot. Respond pessimistically to: '{message}'"

@@ -83,7 +83,7 @@ class Chatbot:
             print(f"{self.bot_name}: {response}")
 
 
-class Henry(Chatbot):
+class Ada(Chatbot):
     def __init__(self, bot_name, engine, behavior, previous_conversation=None):
         super().__init__(bot_name, engine, previous_conversation=previous_conversation)
         self.behavior = behavior
@@ -96,7 +96,7 @@ class Henry(Chatbot):
         super().start_chat()
 
 
-class Vera(Chatbot):
+class Turing(Chatbot):
     def __init__(self, bot_name, engine, behavior, previous_conversation=None):
         super().__init__(bot_name, engine, previous_conversation=previous_conversation)
         self.behavior = behavior
