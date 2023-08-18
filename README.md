@@ -6,7 +6,7 @@ Welcome to the OpenAI-ChatGPT-Customizable-Behaviour-Chatbots Repository! Dive i
 
 - **Persistent Conversations**: Your chats aren't fleeting; save and continue whenever you wish.
 
-- **Diverse Personalities**: Engage with chatbot personalities like `Ada` and `Turing`, each exuding distinct charm. You can also create your own choosing personalities give names in configuration file.
+- **Diverse Personalities**: Engage with chatbot personalities like `Ada` and `Turing`. You can also create your own choosing personalities give names in configuration file.
 
 - **Simple UI**: Effortlessly chat, initiate a new conversation, or pick up from where you left from the terminal app.
 
